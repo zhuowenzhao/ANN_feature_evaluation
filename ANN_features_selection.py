@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 # author: Zhuowen Zhao
-# LicenseCC BY-SA 4.0
 # Please cite: https://doi.org/10.1016/j.scriptamat.2020.04.029
 
 import numpy as np
